@@ -1,6 +1,7 @@
 # mtorrent
 
 > BitTorrent Client with a modern design language.
+> The VUE branch has been abandoned and will most likely not continue to get support.
 
 ## NOTE
 Whilist torrenting itself is not illegal, torrenting copyrighted intelecintellectual property is illegal. </br>
