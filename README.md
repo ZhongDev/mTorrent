@@ -1,5 +1,5 @@
 # mTorrent
-A BitTorrent Client that has a modern interface.
+BitTorrent Client with a modern design language.
 
 ## NOTE
 Whilist torrenting itself is illegal, torrenting copyrighted intelecintellectual property is illegal.
