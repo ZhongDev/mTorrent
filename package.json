@@ -5,7 +5,23 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "electron ."
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "nonExistentID",
+    "files": [
+    "view/****/***/**/*",
+    "view/***/**/*",
+    "view/**/*",
+    "view/*",
+    "main.js",
+    "node_modules/**/*"
+    ],
+    "directories":{
+      "buildResources": "assets"
+    }
   },
   "repository": {
     "type": "git",
@@ -18,6 +34,7 @@
   },
   "homepage": "https://github.com/ZhongDev/mTorrent#readme",
   "devDependencies": {
-    "electron": "^4.1.3"
+    "electron": "^4.1.3",
+    "electron-builder": "^20.39.0"
   }
 }
