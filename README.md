@@ -9,4 +9,4 @@ We do not support the use of this software for illegal means hereby discourage u
 * [Creative Tim](https://github.com/creativetimofficial) - For [blk-design-system](https://github.com/creativetimofficial/blk-design-system)
 
 ## Licensing
-* [MIT License](https://github.com/ZhongDev/mTorrent/blob/master/view/LICENSE) for argon-design-system
+* [MIT License](https://github.com/ZhongDev/mTorrent/blob/master/view/LICENSE) for blk-design-system
